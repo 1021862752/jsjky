@@ -1,0 +1,14 @@
+<!--pages/help/help.wxml-->
+<view class='new'> </view>
+  <view class="userinfo">
+<image src='../../icon/mark/mark.png' class="userinfo-avatar"></image>
+<text></text>
+
+    </view>
+    <text class='help'>关于\n</text>
+      <text class='help'>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n</text>
+    
+    <text class='help'>帮助\n</text>
+     <text class='help'>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n</text>
+        <text class='help'>意见反馈\n</text>
+     <text class='help'>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n</text>

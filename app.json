@@ -1,0 +1,49 @@
+{
+  "pages":[
+
+"pages/toindex/toindex",
+    "pages/help/help",
+    "pages/index/index",
+    "pages/setting/setting",
+    "pages/logs/logs",
+     "pages/logon/logon"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "计算机考研",
+    "navigationBarTextStyle":"black"
+  }
+  ,
+  "tabBar":{
+    "list":[{
+      "pagePath":"pages/index/index",
+      "text":"计划",
+      "iconPath": "icon/normal/foot_ico01.png",
+      "selectedIconPath":"icon/select/foot_onico01.png"
+      
+    },
+    
+    {
+      "pagePath": "pages/index/index",
+      "text": "帖子" ,
+        "iconPath": "icon/normal/foot_ico02.png",
+        "selectedIconPath": "icon/select/foot_onico02.png"
+    },
+        
+    {
+          "pagePath": "pages/index/index",
+          "text": "院校",
+            "iconPath": "icon/normal/foot_ico03.png",
+            "selectedIconPath": "icon/select/foot_onico03.png"
+        }
+        ,
+          {
+            "pagePath": "pages/setting/setting",
+            "text": "用户设置",
+              "iconPath": "icon/normal/foot_ico04.png",
+              "selectedIconPath": "icon/select/foot_onico04.png"
+          }
+    ]
+  }
+}

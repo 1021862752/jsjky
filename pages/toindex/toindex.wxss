@@ -1,0 +1,26 @@
+.userinfo {
+
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+    align-items: center;
+
+  border-radius: 10px;
+
+  background: white;
+  margin: 30rpx;
+  padding: 20%;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  /* border-radius: 50%; */
+  
+}/* pages/toindex/toindex.wxss */
+
+.text{
+text-align: center;
+font-size: 10x;
+}
